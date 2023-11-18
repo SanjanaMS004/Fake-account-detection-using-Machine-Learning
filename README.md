@@ -1,1 +1,2 @@
 # Fake-account-detection-using-Machine-Learning
+In this project, we utilized KNN, SVM, and Random Forest techniques to detect fake Twitter accounts and bots efficiently. We employed feature selection and dimension reduction techniques to achieve this goal. Three machine-learning classification algorithms were implemented to determine the authenticity of the target accounts. These algorithms were Support Vector Machine, K-Nearest Neighbors, and Random Forest.
